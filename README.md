@@ -54,17 +54,22 @@
 </div>
 <div align="center">
 	<table>
-  <tr>
-    <td width="30%">
-     <a href="https://github.com/kwanghunk/PACS-WEB-Project"> <img src="https://github.com/user-attachments/assets/4f31afba-d3a5-4964-b88d-6e9cf5cedca2"></a>
-      <h3>📸 <a href="https://github.com/kwanghunk/PACS-WEB-Project">의료 API연동, PACS(의료영상저장전송시스템) 구현 프로젝트</a></h3>
-      <p>대규모 의료 데이터 관리와 의료 API(Cornerstone) 연동을 통한 DICOM 데이터 조작, 의료 영상 조회, 저장, 수정이 가능한 의료영상저장전송시스템 개발.</p>
-    </td>
-    <td width="30%">
-     <a href="https://github.com/kwanghunk/ECR-WEB-Project"> <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b"></a>
-      <h3>🧩 <a href="https://github.com/kwanghunk/ECR-WEB-Project">스마트 스토어 형식의 방탈출 예약 종합포털 사이트 구현</a></h3>
-      <p> 제휴된 여러 업체의 방탈출 테마 정보를 한 사이트에서 모두 확인하고 예약까지 진행할 수 있는 스마트 스토어 형식의 웹사이트 개발.</p>
-    </td>
-  </tr>
-</table>
+  		<tr>
+    			<td width="30%">
+     				<a href="https://github.com/kwanghunk/PACS-WEB-Project"> <img src="https://github.com/user-attachments/assets/4f31afba-d3a5-4964-b88d-6e9cf5cedca2"></a>
+      				<h3>📸 <a href="https://github.com/kwanghunk/PACS-WEB-Project">의료 API연동, PACS(의료영상저장전송시스템) 구현 프로젝트</a></h3>
+      				<p>대규모 의료 데이터 관리와 의료 API(Cornerstone) 연동을 통한 DICOM 데이터 조작, 의료 영상 조회, 저장, 수정이 가능한 의료영상저장전송시스템 개발.</p>
+    			</td>
+   			<td width="30%">
+     				<a href="https://github.com/kwanghunk/ECR-WEB-Project"> <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b"></a>
+      				<h3>🧩 <a href="https://github.com/kwanghunk/ECR-WEB-Project">스마트 스토어 형식의 방탈출 예약 종합포털 사이트 구현</a></h3>
+      				<p> 제휴된 여러 업체의 방탈출 테마 정보를 한 사이트에서 모두 확인하고 예약까지 진행할 수 있는 스마트 스토어 형식의 웹사이트 개발.</p>
+    			</td>
+  		</tr>
+	</table>
+</div>
+<br>
+<div align="center">
+	<h3>📊 언어 사용 비율</h3>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwanghunk" />
 </div>
