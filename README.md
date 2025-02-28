@@ -56,14 +56,26 @@
 	<table>
   		<tr>
     			<td width="30%">
-     				<a href="https://github.com/kwanghunk/PACS-WEB-Project"> <img src="https://github.com/user-attachments/assets/4f31afba-d3a5-4964-b88d-6e9cf5cedca2"></a>
+     				<a href="https://github.com/kwanghunk/PACS-WEB-Project"> <img src="https://github.com/user-attachments/assets/4f31afba-d3a5-4964-b88d-6e9cf5cedca2" width=100% height=250px></a>
       				<h3>📸 <a href="https://github.com/kwanghunk/PACS-WEB-Project">의료 API연동, PACS(의료영상저장전송시스템) 구현 프로젝트</a></h3>
       				<p>대규모 의료 데이터 관리와 의료 API(Cornerstone) 연동을 통한 DICOM 데이터 조작, 의료 영상 조회, 저장, 수정이 가능한 의료영상저장전송시스템 개발.</p>
     			</td>
    			<td width="30%">
-     				<a href="https://github.com/kwanghunk/ECR-WEB-Project"> <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b"></a>
+     				<a href="https://github.com/kwanghunk/ECR-WEB-Project"> <img src="https://github.com/user-attachments/assets/06a4c399-3a5b-4a43-a844-5b9949aecb0b" width=100% height=250px></a>
       				<h3>🧩 <a href="https://github.com/kwanghunk/ECR-WEB-Project">스마트 스토어 형식의 방탈출 예약 종합포털 사이트 구현</a></h3>
       				<p> 제휴된 여러 업체의 방탈출 테마 정보를 한 사이트에서 모두 확인하고 예약까지 진행할 수 있는 스마트 스토어 형식의 웹사이트 개발.</p>
+    			</td>
+  		</tr>
+		  		<tr>
+    			<td width="30%">
+     				<a href="https://github.com/kwanghunk/Third-WEB-Project"> <img src="https://github.com/user-attachments/assets/3db99bf6-eeab-4384-8d38-1f2069010ac1" width=100% height=250px></a>
+      				<h3>📸 <a href="https://github.com/kwanghunk/Third-WEB-Project">DECOBET - 주니어 개발자를 위한 코드 번역기(미완성 팀 프로젝트)</a></h3>
+      				<p>코드 해석에 어려움을 겪는 주니어 개발자들을 위해 개발된 코드 번역 웹 애플리케이션 개 </p>
+    			</td>
+   			<td width="30%">
+     				<a href="https://github.com/kwanghunk/TEC-WEB-Project"> <img src="https://github.com/user-attachments/assets/a2344a21-4df5-46f8-8ac2-baf0410db497" width=100% height=250px></a>
+      				<h3>🧩 <a href="https://github.com/kwanghunk/TEC-WEB-Project">DECOBET v2 - 주니어 개발자를 위한 코드 번역기(리빌딩 개인 프로젝트)</a></h3>
+      				<p>조기 종료된 웹 코드 번역 프로젝트를 리빌딩하여 보안강화와 사용자 친화적 주니어 개발자 코드 번역 사이트 개발</p>
     			</td>
   		</tr>
 	</table>
