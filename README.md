@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Profile  
-👨 **김광훈** | 부족함을 채워가는 개발자  
+👨 **김광훈** | 모르는 분야에 대한 끊임없는 도전을 즐기는 개발자
 📧 **Email**: hosookkh@gmail.com  
 📞 **Phone**: 010-8668-9294  
 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
