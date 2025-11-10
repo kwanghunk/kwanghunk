@@ -5,28 +5,22 @@
 ---
 
 ## 🚀 Profile  
-- 👨 **김광훈** | 모르는 분야에 대한 끊임없는 도전을 즐기는 개발자 
+- 👨 **김광훈** | 정보통신 / 네트워크 유지보수 엔지니어
+- 👨‍🔧 **현재 근무**: (주)멜레아 기술영업팀 (CMS 유지보수 담당, 2025.06 ~ 재직 중)
 - 📧 **Email**: hosookkh@gmail.com  
 - 📞 **Phone**: 010-8668-9294  
 - 🌐 **Portfolio**: [https://kwanghunk.github.io/](https://kwanghunk.github.io/)  
-- 🎓 **학력**: 연성대학교 군사학과 졸업 (3.3 / 4.5)
 
 ---
 
-## 🏆 **Technical Training**  
-### 🚀 자바 & 클라우드 활용 풀스택 (2024.05.07 ~ 2024.11.25)
-- **STS 기반 Spring 웹 개발**
-- **React**와 **JavaScript**를 활용한 동적 UI 및 상태 관리
-- **Oracle DB**를 활용한 데이터 모델링 및 최적화 
-- 프론트엔드 & 백엔드 기술을 통합한 **풀스택 개발 경험**  
+## ⚙️ 현장 실무 역량
+- 전국 6,500대 이상 CMS 장비 **원격·현장 유지보수 및 장애 대응**  
+- **L1~L3 네트워크 장비(광케이블, 스위치, 라우터)** 운영 및 점검  
+- **로그 분석 기반 장애 원인 추적 및 정상운용률 91% 이상 유지**  
+- **정기점검 보고서 및 SOP 문서화**, 고객사 응대 및 보고 체계 경험  
+- **리눅스마스터 2급 / ADsP / 컴퓨터활용능력 2급 / PC정비사 2급** 보유   
 
 ---
-
-## 💡 Web Developer 
-- 모르는 분야에 대한 **끊임없는 도전**을 즐기는 개발자 
-- **React + Spring Boot** 기반 **풀스택 개발 경험 보유**
-- **TDD 방식**의 개인 프로젝트 *(Junit, Mockito 활용)*  
-- 팀 내 성장 문화를 이끌어 **효율적이고 개방적인 개발 환경** 조성
 
 <details>
 	<summary><h3>🙋‍♂️ 자기 소개</h3></summary>
@@ -89,60 +83,54 @@ IT 기술이 세상을 변화시키는 모습에 매력을 느껴 **체계적인
 
 ## 📚 기술 스택  
 
-### 🗂️ **Database**  
+### 🛰️ **Network & System**
 <div>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
- </div>
-
-### 🖥️ **Backend**  
-<div>
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-	<img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
-	<br />
- 	<img src="https://img.shields.io/badge/json%20web%20tokens-%23000000.svg?&style=for-the-badge&logo=json%20web%20tokens&logoColor=white" />
-	<img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-	<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logo=mockito&logoColor=white" />
+	<img src="https://img.shields.io/badge/TCP/IP-009639?style=for-the-badge&logo=cisco&logoColor=white" />
+	<img src="https://img.shields.io/badge/LAN/WAN-009639?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/VLAN%20%26%20Routing-0078D7?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux%20%26%20Shell-333333?style=for-the-badge&logo=linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/OTDR%20Test-FF6600?style=for-the-badge&logoColor=white" />
 </div>
 
-### 🎨 **Frontend** 
+### 💻 **Maintenance & Operation**
 <div>
-	<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
-
-### 🛠 **ETC**  
-<div>
-	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-	<img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
+	<img src="https://img.shields.io/badge/CMS%20Server-1572B6?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Remote%20Support-6DB33F?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/System%20Monitoring-F80000?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Log%20Analysis-555555?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Documentation%20%26%20Reporting-FFC107?style=for-the-badge&logoColor=white" />
 </div>
 
 ### 🖊️ **Technologies I'm Learning**  
 <div>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/정보처리기사-555555?style=for-the-badge&logoColor=white" />
+	<img src="https://img.shields.io/badge/CCNA-0078D7?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
 
+## 🔧 실무 사례 요약
+| 구분 | 주요 내용 | 성과 |
+|------|------------|------|
+| **CMS 장애 개선** | 세션 동기화 오류 진단 및 캐시 초기화, 설정 재전송 수행 | 정상운용률 88% → 92% |
+| **정기 점검 관리** | 점검표/로그 기반 예방 점검 및 이력 관리 체계 구축 | 재발률 감소 |
+| **원격 지원 SOP** | 고객 응대 프로세스 및 조치 매뉴얼 정리 | 응대 시간 단축 |
+| **네트워크 유지보수** | L2 스위치 포트 점검, VLAN 구성, 광케이블 재접속 | 현장 대응력 강화 |
+
+---
 ## 🎯 진행중인 공부(역략강화)
 🔹 **빅데이터분석기사 필기 2025년 04월 25일 불합격ㅠㅠ** - 17.5/12.5/8.75/15 (53.75) </br> 
 🔹 **정보처리기사 필기 2025년 06월 05일 합격** - 80/70/90/50/70 (72)  </br>
 🔹 **데이터분석 준전문가(ADsP) 2025년 06월 13일 합격** - 14/16/36 (66) </br>
 🔹 **리눅스마스터 2급 2025년 10월 03일 합격** - (61.25) </br>
-🔹 **정보처리기사 실기 2025년 11월 08일 준비중!!**
+🔹 **정보처리기사 실기 2025년 11월 08일 결과 대기중!!**
+
+---
+
+## 💬 목표
+> **“현장의 안정성과 신뢰를 책임지는 네트워크 엔지니어”**  
+> 현장 대응, 장애 분석, 문서화를 기반으로  
+> 고객 신뢰를 높이는 정보통신 전문가로 성장하겠습니다.
 
 ---
 
